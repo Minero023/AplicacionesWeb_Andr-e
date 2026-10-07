@@ -1,0 +1,29 @@
+.caja{
+    width: 400px;
+    padding: 50px;
+    background-color: #5373af;
+    text-align: center;
+    margin: 50px auto;
+}
+/*Esta media query se activa cuando el ancho de la pantalla es menor o igual a 600px*/
+@media(max-width: 800px) {
+    .caja {
+        width: 100%;
+        background-color: #575757;
+        color: #97992e;
+    }
+}
+@media(max-width: 600px) {
+    .caja {
+        width: 50%;
+        background-color: #333333;
+        color: #d0d314;
+    }
+}
+@media(max-width: 550px) {
+    .caja {
+        width: 25%;
+        background-color: #0f0f0f;
+        color: #d0d314;
+    }
+}

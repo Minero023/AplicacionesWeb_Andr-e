@@ -1,0 +1,56 @@
+Desarrollo de aplicaciones Web
+29/09/2026
+
+Silabo
+Aprendizaje
+RDA1
+
+Lo que aprenderemos primero será HTML, CSS y JavaScript.
+Diccionario:
+Librería: Solo un archivo externo que usamos.
+Frameworks: Es un conjunto de librerías ósea una estructura de archivos.
+
+Fin RDA1
+RDA2
+
+Desarrollar aplicaciones web basadas en estándares W3C para cumplir criterios de usabilidad.
+
+Fin RDA2
+RDA3
+
+Aplica tecnología de desarrollo web, móvil y hibrido para automatizar modelos de negocio, considerando el análisis costo-beneficio de la implementación.		
+
+Fin RDA3
+
+30/09/2026
+
+En las versiones de HTML hay cambios importantes entre la 4 y la 5
+
+El cambio de HTML 4 a HTML 5 transformó la web al pasar de un sistema basado en texto y plugins externos a una plataforma multimedia y 
+semántica nativa.
+
+En HTML 4, el navegador solo entendía la estructura básica del texto; para reproducir videos, música o juegos, dependía obligatoriamente 
+de programas de terceros como Adobe Flash Player. Además, los diseños eran confusos porque toda la página se construía repitiendo la misma
+etiqueta genérica (<div>) con diferentes nombres.
+
+En HTML 5, el navegador se volvió autosuficiente y "computacionalmente inteligente":
+• Audio, video y gráficos dinámicos se ejecutan directamente en la página con etiquetas simples como <video> y <canvas>, eliminando los 
+plugins.
+• La estructura es lógica y legible tanto para humanos como para buscadores (como Google) gracias a etiquetas con significado 
+propio (como <header>, <article> o <footer>).
+• Mejora el rendimiento y las funciones, permitiendo que las páginas guarden datos en el navegador (como aplicaciones móviles), validen 
+formularios automáticamente y entiendan la ubicación del usuario.
+
+En resumen: HTML 4 servía para crear páginas web estáticas y dependientes; HTML 5 convierte el navegador en un entorno capaz de ejecutar 
+aplicaciones web completas, modernas y multimedia.
+
+Las etiquetas que se abren y cierran por separado sirven para envolver contenido (como texto u otras etiquetas), 
+mientras que las que se cierran a sí mismas son elementos vacíos que funcionan por sí solos.
+Ejemplo:
+<h4>Mis Hobbies</h4>
+<img src="D:\Desarrollo de aplicaciones web (Andrée Valencia)\Imagenes\miyo.jpeg" width="300" height="300" alt="El ser mas guapo del universo" title="El ser mas guapo del universo">
+
+CSS (por sus siglas en inglés, Cascading Style Sheets, o Hojas de Estilo en Cascada) es un lenguaje de diseño que se utiliza para dar 
+color, forma, tipografía y estilo visual a los documentos escritos en HTML. El CSS fue inventado principalmente por Håkon Wium Lie, un científico de la computación noruego.
+
+

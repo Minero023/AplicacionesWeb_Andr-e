@@ -1,0 +1,23 @@
+.principal{
+    background-color: rgb(2, 85, 34);
+    width: 70%; 
+    height: 100%; 
+}
+.body{
+  background-color: #aac087;
+}
+#main{
+    width: 70%; 
+    height: 100%; 
+}
+.foto{
+    width: 70%; margin: auto;
+}
+.inicio{
+    width: 70%; margin: auto;
+}
+.hipervinculoa{
+     background-color: #f5f5f5;
+     width: 70%; 
+     height: 100%;
+}
